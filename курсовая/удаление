@@ -1,8 +1,0 @@
-# Удалить все эти файлы одной командой
-git rm image.png .gitattributes .gitignore README.md
-
-# Подтвердить удаление
-git commit -m "Удалены image.png, .gitattributes, .gitignore, README.md"
-
-# Отправить изменения на GitHub
-git push
